@@ -1,0 +1,26 @@
+.card {
+    border: 1px solid #EEE;
+    max-width: 320px;
+}
+.card-photo {
+    background: #EEE;
+    height: 160px;
+    position: relative;
+}
+
+.card-brand {
+    position: absolute;
+    left: 50%;
+    margin-left: -40px;
+    height: 80px;
+    width: 80px;
+    background: white;
+    top: 100%;
+    margin-top: -60px;
+    border-radius: 5px;
+    border: 1px solid #EEE;
+}
+
+.card-info {
+    padding: 40px;
+}
